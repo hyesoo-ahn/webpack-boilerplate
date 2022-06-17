@@ -24,6 +24,7 @@ a {
 }
 
 .contents {
+  /* 푸터길이만큼 픽셀 뺀다 */
   min-height: calc(100vh - 100px);
   overflow: hidden;
   background-color: antiquewhite;
